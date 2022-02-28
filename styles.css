@@ -1,0 +1,45 @@
+.obiri{
+    text-align: center;
+    font-style: inherit;
+    color: rgba(249, 249, 252, 0.979);
+    border: 1px solid rgb(240, 235, 235);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    border-style: inset;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgb(42, 42, 66);
+    
+
+    
+  
+}
+.winnie{
+    
+}
+.winfred{
+    background: rgb(247, 244, 244);
+    text-align: center;
+}
+.home{
+    border-style: inset ;
+    background: rgb(247, 244, 244);
+
+}
+.new{
+    border-radius: 5px;
+    border-color: aliceblue;
+}
+.me{
+    text-align: center;
+    
+
+}
+.doll{
+    display: flex;
+    justify-content: space-between;
+}
+#me{
+    height: 60px;
+}

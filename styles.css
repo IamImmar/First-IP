@@ -12,66 +12,31 @@
     background: rgb(42, 42, 66);
   
 } */
-.winnie{
-     font-size: 20px;
-     text-align: left;
 
-}
 .winfred{
     text-align: left;
 }
-.home{
-    border-style: inset ;
-    background: rgb(247, 244, 244);
-
-}
-.new{
-    border-radius: 5px;
-    border-color: aliceblue;
-}
-    
 
 .doll{
     display: flex;
-    justify-content: space-between;
-    border: 0px solid red;
     background: rgb(26, 26, 39);
 }
 #me{
-    height: 200px;
-    border: 0px solid rgb(7, 7, 7);
-}
-.me{
-    border: 0px dotted green ;
-    display: flex;
-    justify-content: space-between;
-}
-.p1{
-    border: 1px solid rgb(26, 26, 29);
-}
-.obiri{
-    text-align: left;
-
-}
-    
-}
-#gmail{
-    height: 15px;
-}
-#phone{
-    height: 15px;
-}
-.name{
-    font-size: 40px;
-    border: 1px solid red;
-    color:rgb(242, 246, 250)
-
+    height: 180px;
 }
 
 .moon{
-    color: aliceblue;
-    font-style:unset;
-    font-size: 20px;
+    text-align: center;
+    color: antiquewhite;
+    font-size: 27px;
 }
+.sun{
+    font-family:'Times New Roman', Times, serif;
+}
+/* .change{
+    text-align:
+} */
+  
+
     
 
